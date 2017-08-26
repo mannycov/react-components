@@ -44,14 +44,6 @@ class GroceryListItem extends React.Component {
     });
   }
 
-  // state is false
-  // on mouse enter change the state to true
-  // set the fontWeight to bold
-
-  // when the fontWeight is bold the state is true
-  // on mouse leave change the state to false
-  // set the fontWeight to normal
-
   render() {
 
     var style = {
